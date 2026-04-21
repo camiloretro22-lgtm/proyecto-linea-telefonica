@@ -41,7 +41,7 @@ Clientes con cargos mensuales más altos tienden a abandonar el servicio si no p
 
 <h1> 📊 Métricas Clave </h1>
 
-% de churn total identificado
+26.5% de churn total identificado
 
 Comparación de churn por tipo de contrato
 
