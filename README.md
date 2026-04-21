@@ -1,4 +1,4 @@
-align="center <h1> 📊 Análisis de Clientes y Churn – Empresa de Telefonía </h1>
+<h1> 📊 Análisis de Clientes y Churn – Empresa de Telefonía </h1>
 
 🧠 Descripción del Proyecto
 
