@@ -22,12 +22,16 @@ Limpieza y transformación de datos (ETL básico)
 
 🔴 Alta tasa de churn en contratos mensuales
 Los clientes con contratos mes a mes presentan una probabilidad significativamente mayor de cancelar el servicio en comparación con contratos a largo plazo.
+
 💳 Método de pago influye en la retención
 Clientes que utilizan pago automático tienen menor tasa de cancelación, lo que sugiere oportunidades para incentivar este método.
+
 📉 Clientes nuevos tienen mayor riesgo de churn
 La mayoría de cancelaciones ocurre en los primeros meses, lo que evidencia problemas en la experiencia inicial del cliente.
+
 📊 Servicios adicionales impactan la permanencia
 Clientes con más servicios (internet, soporte técnico, etc.) presentan mayor fidelización.
+
 ⚠️ Facturación elevada aumenta el riesgo de cancelación
 Clientes con cargos mensuales más altos tienden a abandonar el servicio si no perciben suficiente valor.
 
