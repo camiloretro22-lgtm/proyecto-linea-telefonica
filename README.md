@@ -13,9 +13,13 @@ Reducir la tasa de cancelación de clientes mediante la identificación de varia
 <h1> 🛠️ Tecnologías Utilizadas </h1>
 
 Python (Pandas, NumPy)
+
 Visualización de datos: Matplotlib / Seaborn
+
 Jupyter Notebook
+
 Análisis Exploratorio de Datos (EDA)
+
 Limpieza y transformación de datos (ETL básico)
 
 <h1> 📈 Principales Hallazgos (Impacto de Negocio) </h1>
@@ -38,9 +42,13 @@ Clientes con cargos mensuales más altos tienden a abandonar el servicio si no p
 <h1> 📊 Métricas Clave </h1>
 
 % de churn total identificado
+
 Comparación de churn por tipo de contrato
+
 Tasa de retención según método de pago
+
 Distribución de churn por antigüedad del cliente
+
 Relación entre cargos mensuales y cancelación
 
 <h1> 📌 Conclusión </h1>
